@@ -6,8 +6,8 @@ primeiro site
 O controle das tarefas será realizado no github
 
 ## Icones
- 
+
 - :package: nova funcionalidade 
 - :up: atualização
-- :beeatle: correção de bugs
+- :beetle: correção de bugs
 - :checkered_flag: release
